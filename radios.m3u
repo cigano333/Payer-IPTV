@@ -2,17 +2,7 @@
 #EXTM3U 
 
 
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio Amateur",ECOUTE RADIOS AMATEURS Interconnectés 
-https://49.f4ipa.fr/stream.php?v=
 
-
-
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio Amateur",ECOUTE RADIOS AMATEURS CANADA 1
-https://broadcastify.cdnstream1.com/20280
-
-
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio Amateur",ECOUTE RADIOS AMATEURS CANADA 140.130 MHZ
-https://broadcastify.cdnstream1.com/33127
 
 
 
@@ -26,17 +16,6 @@ https://s1-bos.liveatc.net/lszh1_app_east?nocache=2025110720030997544
 
 #EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio",Aeroport Approach- Zurich, Switzerland
 https://s1-fmt2.liveatc.net/lszh1_app_east?nocache=2025110719390928784
-
-
-
-
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio",Niagara Regional Public Safety Live 
-https://broadcastify.cdnstream1.com/32869
-
-
-
-
-
 
 
 
