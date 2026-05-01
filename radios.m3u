@@ -3,22 +3,6 @@
 
 
 
-
-
-
-
-
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio",Aeroport Approach (East) - Zurich, Switzerland
-https://s1-bos.liveatc.net/lszh1_app_east?nocache=2025110720030997544
-
-
-
-
-#EXTINF:0 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Radio",Aeroport Approach- Zurich, Switzerland
-https://s1-fmt2.liveatc.net/lszh1_app_east?nocache=2025110719390928784
-
-
-
 #EXTINF:-1 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Relax",Channel 1
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
