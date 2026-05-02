@@ -1,17 +1,11 @@
 
 #EXTM3U 
 
-
-
 #EXTINF:-1 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Relax",Baraza Music 
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://asmiptv.free.fr/favicon.ico" group-title="Relax",Baraza Relaxing TV
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/69d4c30d-96a8-4ee1-9134-03a69d048519.png" group-title="Radio",Positively Good Morning
 https://streaming.positivity.radio/pr/goodmorning/icecast.audio
